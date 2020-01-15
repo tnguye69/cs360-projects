@@ -1,0 +1,8 @@
+E mysort
+
+C mysort.c
+
+F -g
+F -I/home/huangj/cs360/include
+
+L /home/cs360/pub/libfdr.a  
